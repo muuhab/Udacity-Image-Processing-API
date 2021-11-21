@@ -1,7 +1,7 @@
 {
   "name": "image-processing-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Image processing api",
   "main": "index.js",
   "scripts": {
     "build": "npm run clean && npx tsc && npm run copy-files",
