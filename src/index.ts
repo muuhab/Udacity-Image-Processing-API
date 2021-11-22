@@ -1,5 +1,5 @@
 import express from 'express';
-import image from './image';
+import image from './utils/image';
 import {notFound,homePage} from './app'
 const app = express();
 const port = 3000;
